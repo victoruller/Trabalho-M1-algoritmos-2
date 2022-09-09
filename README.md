@@ -196,12 +196,10 @@ cout << "Vocês vão treinar, porém ela só leva surra já que você é muito m
   Júlia:\"Uau, já está até treinando, como derrotar?\"\n\n\
   Você:\"Sim, agora vamos lutar durante 6 horas sem parar\"\n\n\
   Vocês vão treinar, porém ela só leva surra já que você é muito mais forte que ela.\n\
-  insira qualquer tecla: ";
-  cin >> act;
 
 }
 prota.torneio = 1;
-cout << "Insira qualquer tecla.";
+cout << "Insira qualquer tecla:";
 cin >> act;
 }
 }
