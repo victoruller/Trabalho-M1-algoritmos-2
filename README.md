@@ -195,7 +195,7 @@ cout << "Vocês vão treinar, porém ela só leva surra já que você é muito m
   cout << "Ela sai com roupas de treino:\n\n\
   Júlia:\"Uau, já está até treinando, como derrotar?\"\n\n\
   Você:\"Sim, agora vamos lutar durante 6 horas sem parar\"\n\n\
-  Vocês vão treinar, porém ela só leva surra já que você é muito mais forte que ela.\n\
+  Vocês vão treinar, porém ela só leva surra já que você é muito mais forte que ela.\n";
 
 }
 prota.torneio = 1;
