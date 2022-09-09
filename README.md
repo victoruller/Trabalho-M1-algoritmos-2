@@ -372,8 +372,11 @@ if(numero % 2 == numerodele % 2){
 cout << "ele jogou " << numerodele << "\n";
 if(par == paresc){
     cout << "Você ganhou + R$" << aposta;
+    prota.bolso = prota.bolso + aposta;
 } else {
-    cout << "Você perdeu R$" << aposta;}
+    cout << "Você perdeu R$" << aposta;
+    prota.bolso = prota.bolso - aposta;
+    }
 }
 cout << "\ninsira qualquer tecla";
 cin >> act;
