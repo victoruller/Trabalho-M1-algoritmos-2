@@ -1,12 +1,22 @@
-# Trabalho-M1-algoritmos-2
-alunos: Victor André Uller e Eduardo Souza Cruz Accácio
+// Trabalho-M1-algoritmos-2
+//alunos: Victor André Uller e Eduardo Souza Cruz Accácio
 #include <iostream>
 #include <locale.h>
 #include <stdlib.h>
 #include <time.h>
 #include <fstream>
 using namespace std;
-
+/* Sumário
+47 - torneio
+97 templo
+210 casa
+234 início
+301 restaurante
+335 homem dos jogos
+378 loja
+450 floricultura
+493 menu
+549 main*/
 //Uma struct para o protagonista que armazenará todos os seus status.
 struct personagem{
 string nome, sapato="pés descalços";
