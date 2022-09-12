@@ -289,7 +289,6 @@ void introducao(personagem &prota, bool horario, string act){
           escolha2(act);
           }
           if(act == "1"){
-            horario = 0;
             casadajulia(prota, horario, act);
           }
 
